@@ -6,8 +6,8 @@ Get jobs
 
 * `GET /api/jobs.json`
 * `GET /api/jobs.json?page=2`
-* `GET /api/jobs.json?&category_id=`
-* `GET /api/jobs.json?&source_id=1`
+* `GET /api/jobs.json?category_id=1`
+* `GET /api/jobs.json?source_id=1`
 
 ```json
 [
